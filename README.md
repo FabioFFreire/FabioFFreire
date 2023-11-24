@@ -1,16 +1,20 @@
-### Hi there 👋
+Olá, sou Fábio Figueiredo 👨‍🎓, estudante de Engenharia de Computação da UFS 🎓.
 
-<!--
-**FabioFFreire/FabioFFreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linguagens de programação : C e Java ☕.
 
-Here are some ideas to get you started:
+Linguagens e tecnologias que quero aprender e trabalhar futuramente: C++, C#, Python, Arduíno, Raspeberry, Assembly, (Unity ou outro motor gráfico)....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Áreas de interesse: Eletrônica, Criptografia 🕵️‍♂️, Jogos, Música...
+
+
+
+Futuros projetos que pretendo trabalhar: 
+- Desenvolvimento de aplicativos mobile 📱.
+- Desenvolvimento de jogos 🎮.
+- Desenvolvimento de hardware 🖥️ .
+- Computação musical 🎼 (Programas de audio 🎛️ e sintetizadores 🎹).
+
+
+
+Depois de me formar pretendo sair viajando pelo mundo, trabalhando e conhecendo novos lugares e oportunidades.
+🌍🛳️✈️🚀🏯🏰🌏🛕🏝️🏞️🗻🌎
